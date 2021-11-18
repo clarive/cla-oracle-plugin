@@ -1,0 +1,9 @@
+name: Oracle Database Plugin
+description: The Oracle Database plugin will allow you to interact with Oracle Database through SQL
+version: 1.0
+icon: https://cdn.rawgit.com/clarive/cla-oracle-plugin/master/public/icon/oracle.svg?sanitize=true
+url: https://github.com/clarive/cla-oracle-plugin
+requires:
+  - clarive_version: 6.8 <= version
+dependencies:
+  - cla-oracle-plugin
